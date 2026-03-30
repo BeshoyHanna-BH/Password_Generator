@@ -84,6 +84,8 @@ README.md               # Project documentation
 
 ---
 
-## 📝 License
+## 👨‍💻 Author
 
-This project is open source and free to use.
+**Beshoy**  
+ Python Developer | Passionate about building practical tools  
+📌 [GitHub Profile](https://github.com/BeshoyHanna-BH)
